@@ -1,4 +1,4 @@
-Sub-repo of [Portapps](https://github.com/portapps) involving untouched artifacts that cannot been extracted from their original locations.<br />
+Sub-repo of [Portapps](https://portapps.github.io) involving untouched artifacts that cannot been extracted from their original locations.<br />
 There are hosted here as an archive artifact for Portapps.<br />
 
 ## Twitch
