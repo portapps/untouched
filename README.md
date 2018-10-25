@@ -1,9 +1,13 @@
 Sub-repo of [Portapps](https://portapps.github.io) involving untouched artifacts that cannot been extracted from their original locations.<br />
 There are hosted here as an archive artifact for Portapps.<br />
 
+## Brave
+
+Since 0.55, Brave [has moved to another repository](https://github.com/brave/brave-browser) and the offline installer is not available on the releases page.
+
 ## KiTTY
 
-Available through third partiy websites without direct download.
+Available through third party websites without direct download.
 
 ## Twitch
 
