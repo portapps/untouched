@@ -1,5 +1,4 @@
-Sub-repo of [Portapps](https://portapps.io) involving untouched artifacts that cannot been extracted from their original locations.<br />
-There are hosted here as an archive artifact for Portapps.<br />
+Sub-repo of [Portapps](https://portapps.io) involving untouched artifacts that cannot been extracted from their original locations.  These files are hosted here as an archive artifact for Portapps.
 
 ## Oracle JDK
 
